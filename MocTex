@@ -1,12 +1,12 @@
 Filetype: IR signals file
 Version: 1
 # 
-# MocTex
+# MocTex_Fast_Off
 #
 name: Power
 type: parsed
 protocol: NEC
-address: 01 00 00 00
-command: 18 00 00 00
+address: 08 00 00 00
+command: D7 00 00 00
 bits: 32
 value: 04 FB 72 8D
